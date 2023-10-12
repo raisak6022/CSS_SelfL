@@ -1,0 +1,29 @@
+div {
+    background-color: rgb(241, 144, 202);
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+}
+
+button {
+    background-color: orangered;
+    display: block;
+} 
+
+#box1 {
+    background-color: rgba(228, 54, 144, 1);
+}
+#box2 {
+    background-color: rgba(6, 120, 103, 1);
+    /* display: none; */
+}
+#box3 {
+    background-color: rgba(213, 228, 54, 1);
+}
+
+h1 {
+    color: rgb(0, 255, 51);
+}
+

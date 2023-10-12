@@ -1,0 +1,46 @@
+p {
+  color: red;
+  text-align: end;
+}
+
+/* h1 {
+    text-align: end;
+    text-decoration: red dotted underline;
+    text-decoration: overline;
+     text-decoration: line-through; 
+
+} */
+
+a {
+  text-decoration: none;
+}
+
+/* #h1 {
+    font-weight: 100;
+}
+
+#h2 {
+    font-weight: 250;
+}
+#h3 {
+    font-weight: 600;
+}
+#h4 {
+    font-weight: 900;
+} */
+
+
+#one {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#two {
+    font-family: arial;
+}
+
+
+
+
+
+
+

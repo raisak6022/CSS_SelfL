@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+#navbar {
+  background-color: black;
+
+  height: 40px;
+  padding: 5px;
+}
+
+a {
+  margin-right: 250px;
+  text-decoration: none;
+  color: white;
+}
+
+#logo {
+  color: rgba(206, 150, 28, 0.803);
+}
+
+button {
+  background-color: rgba(206, 150, 28, 0.803);
+  color: white;
+  border-radius: 7px;
+}
+
+input {
+  border-radius: 7px;
+}
+
+.contentBox {
+  height: 100px;
+  width: 100px;
+  border: 2px solid rgb(0, 0, 0);
+  color: black;
+  display: inline-block;
+}
+#para1 {
+  background-color: rgba(220, 63, 228, 0.5);
+}
+#para2 {
+  background-color: rgba(171, 232, 67, 0.5);
+}
+#para3 {
+  background-color: rgba(73, 219, 239, 0.5);
+}
+
+#contentArea{
+    height: 652px;
+}
+
+#footerAarea {
+  background-color: black;
+  color: white;
+  text-align: center;
+  /* border: 2px solid red; */
+}
